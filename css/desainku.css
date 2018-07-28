@@ -2,7 +2,7 @@ h1, h2, h3, h4, h5 {
     font-family: 'Chela One', cursive;
 }
 .jumbotron {
-    background: url(http://www.tamarvalleyroses.com.au/uploads/1/0/8/8/108827867/pale-pink-folies_orig.jpg);
+    background:linear-gradient(rgba(134, 4, 4, 0.5), rgba(0, 0, 0, 0.7)),url(http://www.tamarvalleyroses.com.au/uploads/1/0/8/8/108827867/pale-pink-folies_orig.jpg);
     color: #fff;
     background-size: cover;
 }
