@@ -1,0 +1,40 @@
+h1, h2, h3, h4, h5 {
+    font-family: 'Chela One', cursive;
+}
+.jumbotron {
+    background: url(http://www.tamarvalleyroses.com.au/uploads/1/0/8/8/108827867/pale-pink-folies_orig.jpg);
+    color: #fff;
+    background-size: cover;
+}
+
+.card:hover {
+    box-shadow: 1px 2px 3px #333;
+}
+.text-center {
+    margin: 2%;
+}
+.box-quote {
+    min-height: 150px;
+}
+
+.quote-1 {
+    background: palevioletred;
+    padding: 2%;
+}
+
+.quote-2 {
+    background:rgb(199, 37, 91);
+    padding: 2%;
+}
+
+.leads {
+    background: #8e1c1c;
+    color: #fff;
+    padding: 2%;
+    margin: 1% 0;
+
+
+.footer {
+    background: #ccc;
+    color: #333;
+}
